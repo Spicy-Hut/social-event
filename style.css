@@ -147,7 +147,7 @@ margin-right:7rem;
 }
 /*banner image*/
 #banner{
-  background-image: url('./img/1725361570928.jpg');
+  background-image: url('img/1725361570928.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
