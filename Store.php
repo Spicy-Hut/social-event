@@ -14,7 +14,7 @@
    <header>
         <nav id="header">
             <div>
-                <img src="./img/1725361570918.jpg" alt="">
+                <img src="img/1725361570918.jpg" alt="">
             </div>
             <ul id="header_ul">
                 <li><a href="intex.php">HOME</a></li>
@@ -69,7 +69,7 @@
         </ul>
         </div>
         <div class="row">
-        <img src="./img/1725361570955.png" alt="CHAMPIONS OF SOCIAL CHANGE" width="140" height="140">
+        <img src="img/1725361570955.png" alt="CHAMPIONS OF SOCIAL CHANGE" width="140" height="140">
         </div>
         </div>
     </div>
