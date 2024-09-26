@@ -28,7 +28,7 @@
         <main id="container">
          <h3 class="OFFICIAL_SITE">WELCOME TO OUR OFFICIAL STORE</h3>
 
-        <div class="container d-flex juestify-content-evenly m-3">
+        <div class="container d-flex juestify-content-evenly m-3 ms-auto">
             <div class="box-content m-3">
 
             </div>
