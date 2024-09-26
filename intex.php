@@ -39,7 +39,7 @@
             THROUGH SPORTS
         </div>
         <h6>OUR MISSION</h6>
-        <div class="container d-flex justify-content-between align-items-center ms-5">
+        <div class="container d-flex justify-content-between align-items-center ms-auto">
          <div class="row "></div>
             <div class="col ">
                 <P class="paragraph wrapper">AT CSG,WE BELIVE IN THR POWER OF<br/>
